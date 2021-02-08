@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_8._3_Peregruzka_arifmeticheskih_i_pobitovih_operatorov</RootNamespace>
+  </PropertyGroup>
+
+</Project>

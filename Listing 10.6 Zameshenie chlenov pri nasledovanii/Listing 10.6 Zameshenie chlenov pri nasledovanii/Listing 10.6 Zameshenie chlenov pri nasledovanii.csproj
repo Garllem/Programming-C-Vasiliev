@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_10._6_Zameshenie_chlenov_pri_nasledovanii</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Listing_10._2_Nasledovanie_b_urovni_dostupa</RootNamespace>
+  </PropertyGroup>
+
+</Project>
